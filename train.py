@@ -55,7 +55,7 @@ def start():
             optimizer=keras.optimizers.Adadelta(),
             metrics=['accuracy'])
             
-     model.fit(x_train, y_train,
+    model.fit(x_train, y_train,
             batch_size=batch_size,
             epochs=epochs,
             verbose=1,
