@@ -1,9 +1,24 @@
-# Training and Deploying Machine Learning Models with Containers
+#IBM NYC developer advocay presents:
 
-## In this workshop you will learn...
+#Co Presenters:
+Grant Steinfeld 
+twitter: @gsteinfeld
+
+Jenna Ritten 
+twitter @jritten
+## Training and Deploying Machine Learning Models with Containers
+
+### In this workshop you will learn...
 
 1) How to build a Convolutional Neural Network (CNN) that can detect handwritten digits (with Keras and the MNIST dataset)
-2) How to train and deploy a CNN with the Flask web framework and Keras
+
+<details><summary><strong>Learn more about CNN etc</strong></summary>
+    
+ > Covn nearal networks are ...
+ wikipedia link etc ...
+ </details>
+
+2) How to train and deploy a CNN with the [Flask](https://pymbook.readthedocs.io/en/latest/flask.html) web framework and Keras
 3) How to install and run Minishift (a locally run OpenShift cluster of one image) on your machine
 4) How to create a project in OpenShift
 5) How to create an app in OpenShift and pull the source code for application from GitHub
@@ -14,7 +29,17 @@ By the end, you'll end up with a natty web app that will tell you what character
 
 ## Before We Start...
 
-It's probably best that you install Minishift before we start diving into neural networking goodness. [Mofe Salami](https://twitter.com/Moffusa) has put together a [fantastic workshop](https://github.com/IBMDeveloperUK/minishift101/tree/master/workshop) that walks you through the installation and basic setup of Minishift. If you pop on over there and follow just the setup steps of the workshop, and then head back here, we'll be good to crack on.
+It's probably best that you install Minishift before we start diving into neural networking goodness. 
+
+Don't have Minishift installed?
+click on arrorow > to your left below:
+<details><summary><strong></strong>Instructions to setup MiniShift</summary>
+    
+
+[Mofe Salami](https://twitter.com/Moffusa) has put together a [fantastic workshop](https://github.com/IBMDeveloperUK/minishift101/tree/master/workshop) that walks you through the installation and basic setup of Minishift. If you pop on over there and follow just the setup steps of the workshop, and then head back here, we'll be good to crack on.
+ </details>
+
+Great! Minishift on your laptop.
 
 ## You Will Need:
 
@@ -22,13 +47,13 @@ It's probably best that you install Minishift before we start diving into neural
 2. A macOS/Windows/Linux system capable of running Minishift
 3. A modern web browser
 
-## Recognising Handwritten Digits with Keras + the MNIST Dataset
+## Recognizing Handwritten Digits with Keras + the MNIST Dataset
 
 Training neural networks (NNs) to classify handwritten digits has become something of a "Hello, World" for developers looking to start tinkering with neural networks. The reasons for this are myriad, but three stand out:
 
 1. The dataset is small, so the network can be trained in a short space of time.
 2. For a very long time, computers struggled to recognise natural human input, but with NNs the problem is essentially trivial to solve (we'll likely get a > 98% accuracy with the model we'll build)
-3. The architecture for recognizing handwritten digits is reuseable for wider image classification cases, so if you're looking to analyse visual datasets with CNNs, MNIST is a great way to cut your teeth.
+3. The architecture for recognizing handwritten digits is reuseable for wider image classification cases, so if you're looking to analyse visual datasets with CNNs, MNIST is a great way to begin and sink your teeth in.
 
 ## Part A: Building the Application
 
@@ -41,7 +66,7 @@ You can do that with the following steps
 1. If you've not done so already, log in to your GitHub account (or create one [here](https://github.com/join) .
 2. Head back to this repository and then click the fork button at the very top of the UI. It looks like this:
 
-![An image highlighting to fork button](/resources/fork_btn.png)
+![An image highlighting to fork button](/resources/forking-the-repo.png)
 
 This will create a copy of this repository that you'll be able to make changes to, and deploy from.
 
