@@ -15,6 +15,8 @@
 
 ### Pizza time chatter
 
+![Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone#/media/File:Rosetta_Stone.JPG)
+
 ## Do you still use a pen and pencil?
 
 ## How does the USPS decide where to send a letter? 
@@ -718,4 +720,11 @@ Watson Studio Time to Beat:
 
 ~80s per epoch
 
+
 .9916 accuracy
+
+## What's next?
+
+### Learning resources:
+
+[Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone)
