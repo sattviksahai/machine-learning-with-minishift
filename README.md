@@ -5,9 +5,13 @@
 
 
 
-# IBM NYC developer advocates present:
+
 
 ## Build an Handwriting Recognition App using Python Machine Learning deployed on OpenShift, RedHats distro of Kubernetes
+
+### Workshop content: curated by IBM NYC developer advocacy team, Digital Ecosystem Group(DEG) 
+### Venue: NYC Blockchain Center, New York, NY
+### Date and Time: November 18th 2019 6:30 - 8:30 PM (EDT)
 
 ### Co Presenters:
 > Grant Steinfeld 
