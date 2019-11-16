@@ -46,7 +46,7 @@ OpenShift is described as “The developer and operations friendly Kubernetes di
 1) How to build a ***Convolutional Neural Network (CNN) that can detect handwritten digits*** (with Keras and the MNIST dataset)
 
 <details><summary><strong>What is a Convolutional Neural Network (CNN) ?</strong></summary>
-    
+
 #### A **convolutional neural network (CNN, or ConvNet) is** 
 
 Usually associated with *deep learning*, CNN are a class of **deep neural networks, most commonly
@@ -55,30 +55,19 @@ applied to analyzing visual imagery.
 They are also known as shift invariant or space invariant artificial neural networks (SIANN), based on their shared-weights architecture and translation invariance characteristics.
 
 
- They have applications
+They have applications
 in image and video recognition, recommender systems, image classification, medical image analysis, and natural language processing (NLP).
 
 
 <p align="center">
-  <b><ul>Figure 1. Diagrammatic representation of a Kernel Machine</ul></b><br>
-    <a href="https://towardsdatascience.com/kernel-function-6f1d2be6091" target="_NEW">Kernel Functions blog by Tejumade Afonja </a> |
-    <a href="https://en.wikipedia.org/wiki/Kernel_(statistics)#Bayesian_statistics">Baesian statistics </a> 
-    
-    probability density function (PDF)
-
-    ![PDF](https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/nov18ws/resources/images/ProbabilityDensityFunction.svg?sanatize=true)
-
-    PDF associated kernel
-    ![PDF-kernel](./resources/images/.gif)
+<b>Figure 1. Diagrammatic representation of a Kernel Machine</b>
+<br>
 
 
-    <a href="https://en.wikipedia.org/wiki/Kernel_density_estimation">Kernel density estimation (KDE) </a> 
 
+<br><br>
+<img src="https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/nov18ws/resources/images/Kernel_Machine.gif" />
 
-  <br><br>
-  <img src="https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/nov18ws/resources/images/Kernel_Machine.gif" />
-
-   
 </p>
 
 
