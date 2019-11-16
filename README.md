@@ -1,22 +1,67 @@
-#IBM NYC developer advocay presents:
+# IBM NYC developer advocay presents:
 
-#Co Presenters:
-Grant Steinfeld 
-twitter: @gsteinfeld
+## Build a Machine Learning Handwriting Recognition App on RedHat's OpenShift Kubernetes
 
-Jenna Ritten 
-twitter @jritten
-## Training and Deploying Machine Learning Models with Containers
+### Co Presenters:
+> Grant Steinfeld 
+> IBM Developer Advocate - North America East - Blockchain | JVM | NodeJS
+> twitter: @gsteinfeld
+
+
+> Jenna Ritten 
+> IBM Developer Advocate - North America East
+> twitter @jritten
+
+
+### Preamble
+
+
+
+
+
+OpenShift is described as “The developer and operations friendly Kubernetes distro.” It runs on top of Kubernetes (previous versions of OpenShift handled container orchestration using a different mechanism). OpenShift provides tools that help developers and operations teams run containerized workloads. Under the covers, OpenShift is powered by Origin Kubernetes Distribution (OKD), which includes Kubernetes and other open source projects like Docker and Istio.
+
 
 ### In this workshop you will learn...
 
-1) How to build a Convolutional Neural Network (CNN) that can detect handwritten digits (with Keras and the MNIST dataset)
+1) Learn about *classification*, a core aspect made availible by Machine learning capable software
+1) Impress your friend and bosses and explain what is **probabilistic program induction**
+1) How to build a ***Convolutional Neural Network (CNN) that can detect handwritten digits*** (with Keras and the MNIST dataset)
 
-<details><summary><strong>Learn more about CNN etc</strong></summary>
+- <details><summary><strong>What is a Convolutional Neural Network (CNN) ?</strong></summary>
     
- > Covn nearal networks are ...
- wikipedia link etc ...
+<pre>In *deep learning*, a **convolutional neural network (CNN, or ConvNet)** is a class of **deep neural networks, most commonly
+applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks 
+(SIANN), based on their shared-weights architecture and translation invariance characteristics. They have applications
+in image and video recognition, recommender systems,[3] image classification, medical image analysis, and natural language 
+processing.
+</pre>
+
  </details>
+ 
+ - <details>
+    <summary>
+        <strong>Learn more about Handwring Recognition (HRW) </strong>
+    </summary>
+    
+    A software program that uses classification techniques embodied in a machine learning capable software program to 
+    recoginize with a certain degree of certainty ( varies from 0.1 - 0.8 degrees of certainty (needs reference :) )
+    
+    ![Wikipedia - Kernal Machine](./resources/images/Kernal_Machine.svg)
+    
+    Checkout this exellent artibly by Paul St John Mackintosh (December 16, 2015)
+    
+        <quote>
+            As it happens, today’s HWR technology is already pretty good, often beating everyday lay users’ typing skills in accuracy. 
+        </quote>
+    
+    [New program promises handwriting recognition breakthrough](https://teleread.com/new-program-promises-handwriting-recognition-breakthrough/index.html)
+  
+</details>
+
+
+
+
 
 2) How to train and deploy a CNN with the [Flask](https://pymbook.readthedocs.io/en/latest/flask.html) web framework and Keras
 3) How to install and run Minishift (a locally run OpenShift cluster of one image) on your machine
@@ -54,6 +99,11 @@ Training neural networks (NNs) to classify handwritten digits has become somethi
 1. The dataset is small, so the network can be trained in a short space of time.
 2. For a very long time, computers struggled to recognise natural human input, but with NNs the problem is essentially trivial to solve (we'll likely get a > 98% accuracy with the model we'll build)
 3. The architecture for recognizing handwritten digits is reuseable for wider image classification cases, so if you're looking to analyse visual datasets with CNNs, MNIST is a great way to begin and sink your teeth in.
+
+<details><summary><strong></strong>Visual Datasets a primer</summary>
+    One of the most important part of 
+ </details>
+
 
 ## Part A: Building the Application
 
