@@ -68,9 +68,9 @@ in image and video recognition, recommender systems, image classification, medic
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
-  ![Wikipedia  Kernal Machine](./resources/images/Kernel_Machine.gif)
+  <img src="https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/nov18ws/resources/images/Kernel_Machine.gif" />
 
-  Figure 1. Diagrammatic representation of a Kernal Machine 
+  <span>Figure 1. Diagrammatic representation of a Kernal Machine </span>
 </p>
 
 
