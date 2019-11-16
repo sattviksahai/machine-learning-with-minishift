@@ -22,6 +22,13 @@
 
 ### Most popular questions in the Agile Huddle today!
 
+Can I use Unicode in Markdown on git hub?
+For example ***Phi***
+ 
+ ## Uppercase Φ
+ >
+ ## Lowercase φ or ϕ
+
 ## Oh you bought RedHat, what did that buy you?  
 
 ### Well for one thing 
@@ -46,12 +53,14 @@ applied to analyzing visual imagery. They are also known as shift invariant or s
 in image and video recognition, recommender systems,[3] image classification, medical image analysis, and natural language 
 processing.
 
+![Wikipedia  Kernal Machine](./resources/images/Kernel_Machine.gif)
+
+[Learn more WikiPedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+
 
 </details>
 
-![Wikipedia  Kernal Machine](./resources/images/Kernel_Machine.gif)
 
-#### Kernal Machine 
 
 
 <details>
