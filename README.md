@@ -59,9 +59,6 @@ They are also known as shift invariant or space invariant artificial neural netw
 in image and video recognition, recommender systems, image classification, medical image analysis, and natural language processing (NLP).
 
 
-
-
-
 <p align="center">
   <b><ul>Figure 1. Diagrammatic representation of a Kernel Machine</ul></b><br>
     <a href="https://towardsdatascience.com/kernel-function-6f1d2be6091" target="_NEW">Kernel Functions blog by Tejumade Afonja </a> |
@@ -69,7 +66,7 @@ in image and video recognition, recommender systems, image classification, medic
     
     probability density function (PDF)
 
-    ![PDF](./resources/images/.gif)
+    ![PDF](https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/nov18ws/resources/images/ProbabilityDensityFunction.svg?sanatize=true)
 
     PDF associated kernel
     ![PDF-kernel](./resources/images/.gif)
