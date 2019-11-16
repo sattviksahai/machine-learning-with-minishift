@@ -16,7 +16,12 @@
 ### Pizza time chatter
 
 ![RosettaStone](https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/nov18ws/resources/images/615px-Rosetta_Stone.JPG)
-[Read more about the Rosetta Stone](http://www.ancientegypt.co.uk/writing/rosetta.html)
+
+What exactly do the 3 paragraphs with 3 very disparate glyphs mean? 
+[Read one of many translations](https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/nov18ws/resources/data/Rosetta-Stone-Translation-E.A.Wallis_Budge_1913-07-12.text) by Wallis Budge (July, 12th 1913)
+
+
+
 
 ## Do you still use a pen and pencil?
 
@@ -725,7 +730,26 @@ Watson Studio Time to Beat:
 .9916 accuracy
 
 ## What's next?
+We have just touched the surface of exploring Machine Learning and character recognition.
+
+Visual / Image Recognition
+
+Computer Vision
+
+Text to speech ( Accessibility )
+
 
 ### Learning resources:
+
+Explore more about character and handwriting recognition technologies
+
+
+Explore more about the Rosetta Stone:
+
+[British Museum](https://blog.britishmuseum.org/everything-you-ever-wanted-to-know-about-the-rosetta-stone/)
+
+[Britannica Encyclopedia](https://www.britannica.com/story/what-does-the-rosetta-stone-say)
+
+[Blog](http://www.ancientegypt.co.uk/writing/rosetta.html)
 
 [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone)
