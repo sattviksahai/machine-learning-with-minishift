@@ -47,35 +47,36 @@ OpenShift is described as “The developer and operations friendly Kubernetes di
 
 <details><summary><strong>What is a Convolutional Neural Network (CNN) ?</strong></summary>
 
-#### A **convolutional neural network (CNN, or ConvNet) is** 
+#### Convolutional neural networks (CNN, or ConvNet) are: 
 
-Usually associated with *deep learning*, CNN are a class of **deep neural networks, most commonly
-applied to analyzing visual imagery. 
+usually associated with *deep learning*. CNNs are a class of **deep neural networks**.  Commonly applied to analyzing visual imagery - images, fonts, photographs, illustrations, sketches and of course hand writing. 
 
-They are also known as shift invariant or space invariant artificial neural networks (SIANN), based on their shared-weights architecture and translation invariance characteristics.
+They are also known as **shift invariant** or **space invariant artificial neural networks** (SIANN), based on their shared-weights architecture and translation invariance characteristics.
 
 
-They have applications
-in image and video recognition, recommender systems, image classification, medical image analysis, and natural language processing (NLP).
+Besides static image recongition, they also have applications in moving image (animated gifs and film), video recognition, recommender systems, image classification, medical image analysis, and last but not least natural language processing (NLP).
+
+
+A core aspect of this methodology is the use of ***Kernel Machines***
 
 
 <p align="center">
+<br><br>
 <b>Figure 1. Diagrammatic representation of a Kernel Machine</b>
 <br>
 
 
-
-<br><br>
 <img src="https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/nov18ws/resources/images/Kernel_Machine.gif" />
 
 </p>
 
 
+[learn more on KernelMachines.org](http://www.kernel-machines.org/)
 
 
-[Learn more WikiPedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+[Learn more on CNN on WikiPedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 
-
+<br>-----------------</br>
 </details>
 
 
