@@ -51,7 +51,7 @@ processing.
 
 ![Wikipedia  Kernal Machine](./resources/images/Kernel_Machine.gif)
 
-#### Kernal Machine
+#### Kernal Machine 
 
 
 <details>
@@ -59,16 +59,21 @@ processing.
         <strong>Learn more about Handwring Recognition (HRW) </strong>
     </summary>
     
-A software program that uses classification techniques embodied in a machine learning capable software program to 
-recoginize with a certain degree of certainty ( varies from 0.1 - 0.8 degrees of certainty (needs reference :) )
+HRW is a a digital method to recognize hand writing.  
+
+
+Typically it is done by a software program that uses classification techniques embodied in a machine learning capable software program, to 
+recoginize what is been written.
+
+with a certain degree of certainty ( varies from 0.1 - 0.8 degrees of certainty (needs reference :) )
     
     
     
-    Checkout this exellent artibly by Paul St John Mackintosh (December 16, 2015)
+Checkout this exellent artibly by Paul St John Mackintosh (December 16, 2015)
     
 
-> As it happens, today’s HWR technology is already pretty good, often beating everyday lay 
-> users’ typing skills in accuracy. 
+> As it happens, today’s HWR technology is already pretty good, 
+> often significantly beating everyday lay users’ typing skills in accuracy. 
 
 
  Interested in HRW, I was!  So I read further:
