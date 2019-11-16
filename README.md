@@ -49,7 +49,10 @@ processing.
 
 </details>
 
-![Wikipedia - Kernal Machine](./resources/images/Kernal_Machine.svg)
+![Wikipedia  Kernal Machine](./resources/images/Kernel_Machine.gif)
+
+#### Kernal Machine
+
 
 <details>
     <summary>
