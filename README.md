@@ -125,6 +125,10 @@ Great! Minishift on your laptop.
 
 ## Recognizing Handwritten Digits with Keras + the MNIST Dataset
 
+<display><summary><strong>What is the MNIST Dataset?</strong></summary
+
+[The MNIST db of handwritten digits](http://yann.lecun.com/exdb/mnist/)
+
 Training neural networks (NNs) to classify handwritten digits has become something of a "Hello, World" for developers looking to start tinkering with neural networks. The reasons for this are myriad, but three stand out:
 
 1. The dataset is small, so the network can be trained in a short space of time.
