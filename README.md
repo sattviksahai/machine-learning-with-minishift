@@ -49,6 +49,7 @@ processing.
 
 </details>
 
+![Wikipedia - Kernal Machine](./resources/images/Kernal_Machine.svg)
 
 <details>
     <summary>
@@ -58,7 +59,7 @@ processing.
 A software program that uses classification techniques embodied in a machine learning capable software program to 
 recoginize with a certain degree of certainty ( varies from 0.1 - 0.8 degrees of certainty (needs reference :) )
     
-    ![Wikipedia - Kernal Machine](./resources/images/Kernal_Machine.svg)
+    
     
     Checkout this exellent artibly by Paul St John Mackintosh (December 16, 2015)
     
