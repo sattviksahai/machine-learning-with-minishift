@@ -1,6 +1,6 @@
 # IBM NYC developer advocay presents:
 
-## Build a Machine Learning Handwriting Recognition App on RedHat's OpenShift Kubernetes
+## Build an Handwriting Recognition App using Python Machine Learning deployed on OpenShift, RedHats distro of Kubernetes
 
 ### Co Presenters:
 > Grant Steinfeld 
@@ -37,19 +37,31 @@ For example ***Phi***
  >
  ## Lowercase φ or ϕ
 
-## Oh you bought RedHat, what did that buy you?  
+## What is OpenShift? 
 
-### Well for one thing 
-*** the worlds best Kubernetes distro***
+### Well for one thing (imho)
+*** OpenShift is the worlds best Kubernetes distro***
 
+```
 OpenShift is described as “The developer and operations friendly Kubernetes distro.” It runs on top of Kubernetes (previous versions of OpenShift handled container orchestration using a different mechanism). OpenShift provides tools that help developers and operations teams run containerized workloads. Under the covers, OpenShift is powered by Origin Kubernetes Distribution (OKD), which includes Kubernetes and other open source projects like Docker and Istio.
+
+
+A hitchhiker’s guide to OpenShift
+As you are working with Red Hat OpenShift on IBM Cloud, just remember: Don't panic!
+
+By Anton McConville, Yan Koyfman, Olaph Wagoner
+Updated November 8, 2019 | Published November 8, 2019
+
+https://developer.ibm.com/articles/hitchhikers-guide-openshift/
+```
 
 
 ### Workshop Summary
 
-### In this workshop you will learn...
+### In this workshop you will
 
-1) Learn about *classification*, a core aspect made availible by Machine learning capable software
+1) Learn about *classification*, a core aspect made available by Machine learning capable software
+1) Have fun and meet likeminded Data scientists who are interested in computer vision and object classification
 1) Impress your friend and bosses and explain what is **probabilistic program induction**
 1) How to build a ***Convolutional Neural Network (CNN) that can detect handwritten digits*** (with Keras and the MNIST dataset)
 
