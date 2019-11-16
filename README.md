@@ -43,11 +43,18 @@ For example ***Phi***
 *** OpenShift is the worlds best Kubernetes distro***
 
 ```
-OpenShift is described as “The developer and operations friendly Kubernetes distro.” It runs on top of Kubernetes (previous versions of OpenShift handled container orchestration using a different mechanism). OpenShift provides tools that help developers and operations teams run containerized workloads. Under the covers, OpenShift is powered by Origin Kubernetes Distribution (OKD), which includes Kubernetes and other open source projects like Docker and Istio.
+"OpenShift is described as “The developer and operations friendly Kubernetes distro.” 
+It runs on top of Kubernetes (previous versions of OpenShift handled container 
+orchestration using a different mechanism). OpenShift provides tools that 
+help developers and operations teams run containerized workloads. 
+
+Under the covers, OpenShift is powered by 
+Origin Kubernetes Distribution (OKD), 
+which includes Kubernetes and other open source projects
+ like Docker and Istio."
 
 
-A hitchhiker’s guide to OpenShift
-As you are working with Red Hat OpenShift on IBM Cloud, just remember: Don't panic!
+A hitchhiker’s guide to OpenShift - As you are working with Red Hat OpenShift on IBM Cloud, just remember: Don't panic!
 
 By Anton McConville, Yan Koyfman, Olaph Wagoner
 Updated November 8, 2019 | Published November 8, 2019
