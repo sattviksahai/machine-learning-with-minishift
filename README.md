@@ -47,13 +47,34 @@ OpenShift is described as “The developer and operations friendly Kubernetes di
 
 <details><summary><strong>What is a Convolutional Neural Network (CNN) ?</strong></summary>
     
-In *deep learning*, a **convolutional neural network (CNN, or ConvNet)** is a class of **deep neural networks, most commonly
-applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks 
-(SIANN), based on their shared-weights architecture and translation invariance characteristics. They have applications
-in image and video recognition, recommender systems,[3] image classification, medical image analysis, and natural language 
-processing.
+#### A **convolutional neural network (CNN, or ConvNet) is** 
 
-![Wikipedia  Kernal Machine](./resources/images/Kernel_Machine.gif)
+Usually associated with *deep learning*, CNN are a class of **deep neural networks, most commonly
+applied to analyzing visual imagery. 
+
+They are also known as shift invariant or space invariant artificial neural networks (SIANN), based on their shared-weights architecture and translation invariance characteristics.
+
+
+ They have applications
+in image and video recognition, recommender systems, image classification, medical image analysis, and natural language processing (NLP).
+
+
+
+
+
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  ![Wikipedia  Kernal Machine](./resources/images/Kernel_Machine.gif)
+
+  Figure 1. Diagrammatic representation of a Kernal Machine 
+</p>
+
+
+
 
 [Learn more WikiPedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 
