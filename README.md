@@ -63,14 +63,25 @@ in image and video recognition, recommender systems, image classification, medic
 
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  <b><ul>Figure 1. Diagrammatic representation of a Kernel Machine</ul></b><br>
+    <a href="https://towardsdatascience.com/kernel-function-6f1d2be6091" target="_NEW">Kernel Functions blog by Tejumade Afonja </a> |
+    <a href="https://en.wikipedia.org/wiki/Kernel_(statistics)#Bayesian_statistics">Baesian statistics </a> 
+    
+    probability density function (PDF)
+
+    ![PDF](./resources/images/.gif)
+
+    PDF associated kernel
+    ![PDF-kernel](./resources/images/.gif)
+
+
+    <a href="https://en.wikipedia.org/wiki/Kernel_density_estimation">Kernel density estimation (KDE) </a> 
+
+
   <br><br>
   <img src="https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/nov18ws/resources/images/Kernel_Machine.gif" />
 
-  <span>Figure 1. Diagrammatic representation of a Kernal Machine </span>
+   
 </p>
 
 
