@@ -1,4 +1,12 @@
-# IBM NYC developer advocay presents:
+# this.repo = \
+#
+#                 https://bit.ly/2QAy2gr
+
+
+
+
+
+# IBM NYC developer advocates present:
 
 ## Build an Handwriting Recognition App using Python Machine Learning deployed on OpenShift, RedHats distro of Kubernetes
 
