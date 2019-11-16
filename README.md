@@ -15,7 +15,7 @@
 
 ### Pizza time chatter
 
-![Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone#/media/File:Rosetta_Stone.JPG)
+![RosettaStone](https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/nov18ws/resources/images/615px-Rosetta_Stone.JPG)
 
 ## Do you still use a pen and pencil?
 
