@@ -13,14 +13,24 @@
 > twitter @jritten
 
 
-### Preamble
+### Pizza time chatter
+
+## Do you still use a pen and pencil?
+
+## How does the USPS decide where to send a letter? 
 
 
+### Most popular questions in the Agile Huddle today!
 
+## Oh you bought RedHat, what did that buy you?  
 
+### Well for one thing 
+*** the worlds best Kubernetes distro***
 
 OpenShift is described as “The developer and operations friendly Kubernetes distro.” It runs on top of Kubernetes (previous versions of OpenShift handled container orchestration using a different mechanism). OpenShift provides tools that help developers and operations teams run containerized workloads. Under the covers, OpenShift is powered by Origin Kubernetes Distribution (OKD), which includes Kubernetes and other open source projects like Docker and Istio.
 
+
+### Workshop Summary
 
 ### In this workshop you will learn...
 
@@ -28,34 +38,37 @@ OpenShift is described as “The developer and operations friendly Kubernetes di
 1) Impress your friend and bosses and explain what is **probabilistic program induction**
 1) How to build a ***Convolutional Neural Network (CNN) that can detect handwritten digits*** (with Keras and the MNIST dataset)
 
-- <details><summary><strong>What is a Convolutional Neural Network (CNN) ?</strong></summary>
+<details><summary><strong>What is a Convolutional Neural Network (CNN) ?</strong></summary>
     
-<pre>In *deep learning*, a **convolutional neural network (CNN, or ConvNet)** is a class of **deep neural networks, most commonly
+In *deep learning*, a **convolutional neural network (CNN, or ConvNet)** is a class of **deep neural networks, most commonly
 applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks 
 (SIANN), based on their shared-weights architecture and translation invariance characteristics. They have applications
 in image and video recognition, recommender systems,[3] image classification, medical image analysis, and natural language 
 processing.
-</pre>
 
- </details>
- 
- - <details>
+
+</details>
+
+
+<details>
     <summary>
         <strong>Learn more about Handwring Recognition (HRW) </strong>
     </summary>
     
-    A software program that uses classification techniques embodied in a machine learning capable software program to 
-    recoginize with a certain degree of certainty ( varies from 0.1 - 0.8 degrees of certainty (needs reference :) )
+A software program that uses classification techniques embodied in a machine learning capable software program to 
+recoginize with a certain degree of certainty ( varies from 0.1 - 0.8 degrees of certainty (needs reference :) )
     
     ![Wikipedia - Kernal Machine](./resources/images/Kernal_Machine.svg)
     
     Checkout this exellent artibly by Paul St John Mackintosh (December 16, 2015)
     
-        <quote>
-            As it happens, today’s HWR technology is already pretty good, often beating everyday lay users’ typing skills in accuracy. 
-        </quote>
-    
-    [New program promises handwriting recognition breakthrough](https://teleread.com/new-program-promises-handwriting-recognition-breakthrough/index.html)
+
+> As it happens, today’s HWR technology is already pretty good, often beating everyday lay 
+> users’ typing skills in accuracy. 
+
+
+ Interested in HRW, I was!  So I read further:
+  [New program promises handwriting recognition breakthrough](https://teleread.com/new-program-promises-handwriting-recognition-breakthrough/index.html)
   
 </details>
 
