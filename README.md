@@ -549,6 +549,14 @@ mnist-recognition
 
 For the Git repository, we want to add the URL for the forked copy of the project Git repo that we just commited to. Head to your forked version and click the 'Clone or download' button again. Make sure to copy the HTTP version of the URL, as Minishift hasn't been configured to get source code over SSH. Paste that value into the Git Repository field and then click 'Next'.
 
+
+<details><summary><strong></strong>remote URL - specify Git branch</summary>
+    Also, when specifying a remote URL, you can specify a Git branch to use by appending #<branch_name> to the end of the URL:
+```sh
+$ oc new-app https://github.com/openshift/ruby-hello-world.git#beta4
+```
+ </details>
+
 You'll then see a dialog describing the creation of your project and app. Click 'Close' when this process has finished.
 
 ### Building our application
