@@ -551,13 +551,18 @@ For the Git repository, we want to add the URL for the forked copy of the projec
 
 
 <details><summary><strong></strong>remote URL - specify Git branch</summary>
-    Also, when specifying a remote URL, you can specify a Git branch to use by appending #<branch_name> to the end of the URL:
+ 
+When specifying a remote URL, you can specify a Git branch to use by appending #<branch_name> to the end of the URL,
+for example the branch `nov18ws`
+
+    
 ```sh
-$ oc new-app https://github.com/openshift/ruby-hello-world.git#beta4
+$> oc new-app https://github.com/openshift/ruby-hello-world.git#nov18ws
 ```
  </details>
 
-You'll then see a dialog describing the creation of your project and app. Click 'Close' when this process has finished.
+
+> You'll then see a dialog describing the creation of your project and app. Click 'Close' when this process has finished.
 
 ### Building our application
 
