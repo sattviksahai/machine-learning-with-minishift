@@ -17,13 +17,15 @@
 ### Venue: NYC Blockchain Center, New York, NY
 ### Date and Time: November 18th 2019 6:30 - 8:30 PM (EDT)
 
-### Co  qPresenters:
+### Presenter:
 > Grant Steinfeld 
 > IBM Developer Advocate - North America East - Blockchain | JVM | NodeJS
 > twitter: @gsteinfeld
 
 
 ### Pizza time chatter
+
+![leader](https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/master/resources/images/PYTHON-KERAS-MNIST-CNN-HANDWRITING-TWITTER-LEADER.jpg)
 
 ![RosettaStone](https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/nov18ws/resources/images/615px-Rosetta_Stone.JPG)
 
