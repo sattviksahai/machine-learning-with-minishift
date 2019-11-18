@@ -41,13 +41,6 @@ What exactly do the 3 paragraphs with 3 very disparate glyphs mean?
 
 ### Most popular questions in the Agile Huddle today!
 
-Can I use Unicode in Markdown on git hub?
-For example ***Phi***
- 
- ## Uppercase Φ
- >
- ## Lowercase φ or ϕ
-
 ## What is OpenShift? 
 
 ### Well for one thing (imho)
@@ -783,3 +776,22 @@ Explore more about the Rosetta Stone:
 [Blog](http://www.ancientegypt.co.uk/writing/rosetta.html)
 
 [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone)
+
+
+### Troubleshooting
+#### login to oc - set env vars
+
+Verify that you can access the web console and login as developer in the web console, and as system:admin in your terminal/shell window
+If using minishift, obtain the commands you need to type into your shell in order to add the oc binary to your PATH environment variable:
+
+```sh
+minishift docker-env
+minishift oc-env
+```
+
+Then run the respective commands. For example:
+
+```sh
+eval $(minishift docker-env)
+eval $(minishift oc-env)
+```
