@@ -24,48 +24,6 @@
 > twitter @jritten
 
 
-### Pizza time chatter
-
-![RosettaStone](https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/nov18ws/resources/images/615px-Rosetta_Stone.JPG)
-
-What exactly do the 3 paragraphs with 3 very disparate glyphs mean? 
-[Read one of many translations](https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/nov18ws/resources/data/Rosetta-Stone-Translation-E.A.Wallis_Budge_1913-07-12.text) by Wallis Budge (July, 12th 1913)
-
-
-
-
-## Do you still use a pen and pencil?
-
-## How does the USPS decide where to send a letter? 
-
-
-### Most popular questions in the Agile Huddle today!
-
-## What is OpenShift? 
-
-### Well for one thing (imho)
-*** OpenShift is the worlds best Kubernetes distro***
-
-```
-"OpenShift is described as “The developer and operations friendly Kubernetes distro.” 
-It runs on top of Kubernetes (previous versions of OpenShift handled container 
-orchestration using a different mechanism). OpenShift provides tools that 
-help developers and operations teams run containerized workloads. 
-
-Under the covers, OpenShift is powered by 
-Origin Kubernetes Distribution (OKD), 
-which includes Kubernetes and other open source projects
- like Docker and Istio."
-
-
-A hitchhiker’s guide to OpenShift - As you are working with Red Hat OpenShift on IBM Cloud, just remember: Don't panic!
-
-By Anton McConville, Yan Koyfman, Olaph Wagoner
-Updated November 8, 2019 | Published November 8, 2019
-
-https://developer.ibm.com/articles/hitchhikers-guide-openshift/
-```
-
 
 ### Workshop Summary
 
@@ -782,16 +740,6 @@ https://docs.okd.io/latest/dev_guide/application_lifecycle/new_app.html#specifyi
 
 Explore more about character and handwriting recognition technologies
 tbd
-
-Explore more about the Rosetta Stone:
-
-[British Museum](https://blog.britishmuseum.org/everything-you-ever-wanted-to-know-about-the-rosetta-stone/)
-
-[Britannica Encyclopedia](https://www.britannica.com/story/what-does-the-rosetta-stone-say)
-
-[Blog](http://www.ancientegypt.co.uk/writing/rosetta.html)
-
-[Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone)
 
 
 ### Troubleshooting
