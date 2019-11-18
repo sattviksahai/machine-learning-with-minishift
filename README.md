@@ -1,13 +1,17 @@
-#
-# this.repo         ===           https://bit.ly/2QAy2gr
-
-
-
-
-
-
 
 ## Build an Handwriting Recognition App using Python Machine Learning deployed on OpenShift, RedHats distro of Kubernetes
+
+# Welcome!!
+
+# please Navigate to this.repo
+# https://bit.ly/2QAy2gr
+
+
+
+
+
+
+
 
 ### Workshop content: curated by IBM NYC developer advocacy team, Digital Ecosystem Group(DEG) 
 ### Venue: NYC Blockchain Center, New York, NY
@@ -146,6 +150,13 @@ It is a good database for people who want to try learning techniques and pattern
 
 [The MNIST db of handwritten digits](http://yann.lecun.com/exdb/mnist/)
 
+</details>
+
+<details><summary><strong>What is Python Keras?</strong></summary>
+
+Keras is a high-level API capable of running on top of TensorFlow, CNTK, Theano, or MXNet (or as tf.contrib within TensorFlow). Since its initial release in March 2015, it has gained favor for its ease of use and syntactic simplicity, facilitating fast development. 
+
+It’s supported by Google.
 </details>
 
 Training neural networks (NNs) to classify handwritten digits has become something of a "Hello, World" for developers looking to start tinkering with neural networks. The reasons for this are myriad, but three stand out:
@@ -742,7 +753,10 @@ Creating an Application From Source Code
 https://docs.okd.io/latest/dev_guide/application_lifecycle/new_app.html#specifying-source-code
 
 Explore more about character and handwriting recognition technologies
-tbd
+
+Wolfram Mathematica - Create a Handwritten-Digit Recognizer 
+Train a digit recognizer on 100 examples from the MNIST database of handwritten digits.
+https://www.wolfram.com/mathematica/new-in-10/highly-automated-machine-learning/create-a-handwritten-digit-recognizer.html
 
 
 ### Troubleshooting
