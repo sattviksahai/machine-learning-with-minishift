@@ -777,8 +777,11 @@ Text to speech ( Accessibility )
 
 ### Learning resources:
 
-Explore more about character and handwriting recognition technologies
+Creating an Application From Source Code
+https://docs.okd.io/latest/dev_guide/application_lifecycle/new_app.html#specifying-source-code
 
+Explore more about character and handwriting recognition technologies
+tbd
 
 Explore more about the Rosetta Stone:
 
