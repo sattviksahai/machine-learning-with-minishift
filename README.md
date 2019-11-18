@@ -13,15 +13,18 @@
 ### Venue: NYC Blockchain Center, New York, NY
 ### Date and Time: November 18th 2019 6:30 - 8:30 PM (EDT)
 
-### Co Presenters:
+### Co  qPresenters:
 > Grant Steinfeld 
 > IBM Developer Advocate - North America East - Blockchain | JVM | NodeJS
 > twitter: @gsteinfeld
 
 
-> Jenna Ritten 
-> IBM Developer Advocate - North America East
-> twitter @jritten
+### Pizza time chatter
+
+![RosettaStone](https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/nov18ws/resources/images/615px-Rosetta_Stone.JPG)
+
+What exactly do the 3 paragraphs with 3 very disparate glyphs mean? 
+[Read one of many translations](https://github.com/IBMDeveloperNYC/machine-learning-with-minishift/blob/nov18ws/resources/data/Rosetta-Stone-Translation-E.A.Wallis_Budge_1913-07-12.text) by Wallis Budge (July, 12th 1913)
 
 
 
