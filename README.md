@@ -754,6 +754,14 @@ https://docs.okd.io/latest/dev_guide/application_lifecycle/new_app.html#specifyi
 
 Explore more about character and handwriting recognition technologies
 
+A multilayer perceptron (MLP) is a class of feedforward artificial neural network (ANN)
+https://en.wikipedia.org/wiki/Multilayer_perceptron
+
+MNIST Handwritten Digit Recognition in Keras - Gregor Koehler•Oct 17 2019
+PhD Student in Computer Science. Articles about Machine Learning.
+https://nextjournal.com/gkoehler/digit-recognition-with-keras
+
+
 Wolfram Mathematica - Create a Handwritten-Digit Recognizer 
 Train a digit recognizer on 100 examples from the MNIST database of handwritten digits.
 https://www.wolfram.com/mathematica/new-in-10/highly-automated-machine-learning/create-a-handwritten-digit-recognizer.html
